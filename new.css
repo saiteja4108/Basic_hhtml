@@ -1,0 +1,33 @@
+ 
+            form{
+                text-align: center;
+            }
+           
+            
+            
+            .btn {
+                    background-color: #3753cf;
+                    color: white;
+                    cursor: pointer;
+                    }
+
+                .btn:hover {
+                      background-color:  #021232;
+                    }
+                .rst{
+                    background-color: #3753cf;
+                    color: white;
+                    cursor: pointer;
+                    }
+                .rst:hover{
+                    background-color:  #021232;
+                     }
+                #btn{
+                    background-color: #3753cf;
+                    color: white;
+                    cursor: pointer;
+                    }
+                #btn:hover{
+                    background-color:  #021232;    
+                    }
+          
